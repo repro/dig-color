@@ -8,3 +8,5 @@ dig-color () {
   '; 
 }
 
+dig-color $*
+
